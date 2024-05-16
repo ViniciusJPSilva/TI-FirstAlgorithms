@@ -1,2 +1,2 @@
-# TI-PrimeirosAlgoritmos
-Dois primeiros trabalhos práticos que desenvolvi.
+# Primeiros Algoritmos
+## Dois primeiros trabalhos práticos que desenvolvi.
