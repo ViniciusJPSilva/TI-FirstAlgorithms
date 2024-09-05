@@ -1,3 +1,4 @@
-# Primeiros Algoritmos
-Dois primeiros trabalhos práticos que desenvolvi. 
-Linguagem: Portugol (visualg)
+# First Algorithms
+
+Two first academic projects I developed. 
+Language: Portugol (visualg)
